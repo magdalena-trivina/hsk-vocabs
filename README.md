@@ -9,6 +9,7 @@
 
 ## 🌍 Vocabulary Sources
 - 🎥 [ChinesePod](https://www.chinesepod.com/)
+- 🎥 [Talk Taiwanese Mandarin with Abby](https://talktaiwanesemandarin.com/)
 - 🎵 Songs' lyrics of JJ Lin, Sodagreen, Stephanie Sun and Andy Lau 
 
 ---
